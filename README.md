@@ -12,8 +12,7 @@ Features
 - View list of employees  
 - Update / edit existing employee data  
 - Delete employee entries  
-- Built using Django and SQLite  
-- Admin dashboard interface (via Django admin)  
+- Built using Django and SQLite    
 
 - `employee/` — contains models, views, templates, and forms for employee operations  
 - `operations/` — possibly contains auxiliary logic or utilities  
@@ -43,9 +42,11 @@ Follow these steps to run the project locally:
   python manage.py runserver
 -Open your browser and go to http://127.0.0.1:8000/.
 
+
 Usage
 -Use the built-in pages to add, view, edit, or delete employees.
 -You can further extend the project to add search, pagination, authentication, etc.
+
 
 Configuration
 -settings.py — adjust ALLOWED_HOSTS, DEBUG, database settings if needed.
