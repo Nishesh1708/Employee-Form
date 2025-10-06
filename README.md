@@ -1,5 +1,5 @@
 
-# Project Title
+# Employee Details Form
 
 A Django web application for managing employee information through forms.
 
